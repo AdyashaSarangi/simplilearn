@@ -1,4 +1,3 @@
-wold in password
 hello world
 hello india
 hello people
